@@ -43,7 +43,7 @@ jupyter==1.0.0
 jupyter-client==5.3.4
 jupyter-console==6.0.0
 jupyter-core==4.6.1
-jupyterlab==2.1.4
+jupyterlab==2.2.10
 jupyterlab-server==1.1.5
 lazy-object-proxy==1.4.2
 lxml==4.5.2
